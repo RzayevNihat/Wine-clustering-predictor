@@ -1,4 +1,4 @@
-# Wine Quality Clustering
+# [Wine Quality Clustering](https://wine-clustering-predictor.streamlit.app/)
 ## Project Description
 In this machine learning project, the objective is to cluster wines based on their quality using the KMeans algorithm. The dataset used contains a total of 13 features that provide various chemical compositions of the wines. To enhance the model's efficiency and interpretability, Principal Component Analysis (PCA) is applied for dimensionality reduction. Additionally, the optimal number of clusters is determined through the Elbow method, ensuring meaningful and insightful wine categorization.
 
