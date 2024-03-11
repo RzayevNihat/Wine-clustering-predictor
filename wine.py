@@ -83,7 +83,6 @@ with interface:
     
     # Lügət data strukturunun DataFrame data strukturuna çevirilməsi
     input_features = pd.DataFrame(data=data_dicionary,index=[0])
-    st.subheader(body=f'{input_features.shape}')
 
     # Proqnoz adlarının yaradılması
     cluster_labels = {0:'first', 1:'second', 2:'third'}
